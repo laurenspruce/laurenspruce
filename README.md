@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @laurenspruce
 - 👀 I’m interested in looking for a graduate job, as I have recently graduated with first class honours in Computer Science. I am interested in Java programming and databases. I have experience within many IDEs, including Netbeans and IntelliJ IDEA. I am also used to creating mobile software within android studio.
 - 🌱 I’m currently learning and expanding my knowledge within Java, python and Javascript react.
-- 💞️ I’m looking to gain more experience and knowledge. 
+- 💞️ I’m looking to gain more experience and knowledge in a growing business. Also, to gain a bigger network and build positive relationships. 
 - 📫 How to reach me ... instagram @laurenspruce
 
 <!---
