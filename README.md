@@ -1,5 +1,5 @@
 
-       - Web Development - Backend Development - Mobile Development -
+       - Fullstack Developer -
           
           - Java + Python
           - HTML5 + CSS
