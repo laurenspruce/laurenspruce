@@ -1,7 +1,7 @@
 
        - Fullstack Developer -
           
-          - Java + Python
+          - Java + C# + Python
           - HTML5 + CSS
           - JavaScript + React
           
