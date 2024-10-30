@@ -1,11 +1,7 @@
 
-Fullstack Developer
+## Fullstack Developer
 
-       
-          - Java <3
-          - JavaScript + TypeScript + React
-
-## Toolset
+## My Tool Set
 
 | Category                 | Tools                                                                                                                   |
 |--------------------------|-------------------------------------------------------------------------------------------------------------------------|
