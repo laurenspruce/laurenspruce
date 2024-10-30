@@ -14,15 +14,15 @@
 <div align="center">
 
 <table>
+   <!-- Most Used Languages -->
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurenspruce&layout=compact&theme=dark" width="300px" onerror="this.onerror=null; this.src='https://via.placeholder.com/300x100?text=No+Language+Data'">
+    </td>
+  
   <tr>
     <!-- GitHub Readme Stats -->
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=laurenspruce&show_icons=true&theme=dark" width="300px">
-    </td>
-    
-    <!-- Most Used Languages -->
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurenspruce&layout=compact&theme=dark" width="300px" onerror="this.onerror=null; this.src='https://via.placeholder.com/300x100?text=No+Language+Data'">
     </td>
   </tr>
   
