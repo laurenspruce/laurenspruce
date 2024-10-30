@@ -1,6 +1,3 @@
-
-## Fullstack Developer
-
 ## My Tool Set
 
 | Category                 | Tools                                                                                                                   |
