@@ -2,8 +2,6 @@
 
 ## My Tool Set
 
-## My Tool Set
-
 | Category | Tools |
 |---|---|
 | **Languages** | ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) |
