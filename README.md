@@ -10,32 +10,3 @@
 | **Protocols & Communication** | gRPC |
 | **Testing** | ![JUnit](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) xUnit |
 | **Version Control** | ![Git](https://img.icons8.com/color/48/000000/git.png) ![GitHub](https://img.icons8.com/ios-glyphs/48/000000/github.png) |
-## My GitHub Stats
-
-<div align="center">
-
-<table>
-  <tr>
-    <!-- GitHub Readme Stats -->
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=laurenspruce&show_icons=true&theme=dark" width="300px">
-    </td>
-  
-  </tr>
-  
-  <tr>
-    <!-- GitHub Streak Stats -->
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=laurenspruce&theme=dark" width="600px">
-    </td>
-  </tr>
-  
-  <tr>
-    <!-- GitHub Trophies -->
-    <td colspan="2" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=laurenspruce&theme=dark&column=6&margin-w=10&margin-h=10" width="600px">
-    </td>
-  </tr>
-</table>
-
-</div>
